@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Chroma DB
+chatdb
+
 # C extensions
 *.so
 
@@ -127,6 +130,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+*venv*
 
 # Spyder project settings
 .spyderproject
